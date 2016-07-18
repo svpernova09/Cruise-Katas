@@ -1,0 +1,21 @@
+{
+    "name": "svpernova09/cruise-katas-01",
+    "description": "Code Kata for php[cruise]",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joe Ferguson",
+            "email": "joe@joeferguson.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    }
+}
