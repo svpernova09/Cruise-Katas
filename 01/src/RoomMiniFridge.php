@@ -1,6 +1,6 @@
 <?php
 
-class RoomMiniBar
+class RoomMiniFridge
 {
     public $cart;
 
